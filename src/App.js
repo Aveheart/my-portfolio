@@ -1,5 +1,8 @@
 import logo from './myface.PNG';
 import './App.css';
+import React from 'react';
+import Header from './components/Header';
+import Footer from './components/Footer'
 
 function App() {
   return (
@@ -20,6 +23,11 @@ function App() {
       </header>
     </div>
   );
-}
+//   <div>
+//     <Header></Header>
+//     <Footer></Footer>
+//   </div>
+// )}
+  }
 
 export default App;
