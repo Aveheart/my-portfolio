@@ -7,9 +7,6 @@ function Header() {
                         Averi Sherman
                     </span>
                 </div>
-                <div>
-                    <p>links will go here</p>
-                </div>
             </nav>
         </div>
     )
