@@ -8,7 +8,7 @@ function Footer() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Click Here!
+          Github
         </a>
             </div>
     )
