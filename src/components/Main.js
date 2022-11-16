@@ -4,12 +4,13 @@ import Footer from './Footer';
 import About from './pages/About';
 import Projects from './pages/Projects';
 import Contact from './pages/Contact';
+import Home from './pages/Home';
 
 function Main () {
     return(
         <div>
             {<Header/>}
-            {<Main/>}
+            {<Home/>}
             {<About/>}
             {<Projects/>}
             {<Contact/>}
