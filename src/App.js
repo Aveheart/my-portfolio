@@ -1,18 +1,9 @@
 // import logo from './myface.PNG';
 import './App.css';
 import React from 'react';
-import Header from './components/Header';
-import Footer from './components/Footer'
+import Main from './components/Main'
 
-function App() {
-  return (
- 
-  <div>
-    <Header></Header>
-    {/* <Portfolio></Portfolio> */}
-    <Footer></Footer>
-  </div>
-)}
+const App= () => <Main/>;
 
 
 export default App;
