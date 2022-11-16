@@ -3,8 +3,8 @@ function Header() {
         <div className="App">
             <nav className="App-header">
                 <div>
-                    <span>
-                        This Is The Header
+                    <span className="name">
+                        Averi Sherman
                     </span>
                 </div>
                 <div>
