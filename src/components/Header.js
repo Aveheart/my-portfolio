@@ -5,17 +5,17 @@ function Header() {
         <header id="home">
             <nav id="nav-wrap">
                 <ul id="nav" className="nav">
-                    <li>Home</li>
+                    <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
                     <li><a className="smoothscroll" href="#about">About</a></li>
                     {/* <li><a className="smoothscroll" href="#resume">Resume</a></li> */}
                     <li><a className="smoothscroll" href="#projects">Projects</a></li>
-                    <li>Contact</li>
+                    <li><a className="smoothscroll" href="#contact">Contact</a></li>
                 </ul>
             </nav>
             <div className="row banner">
                 <div className="banner-text">
                     <h1 className="responsive-headline">I am Averi Sherman.</h1>
-                    <h3 style={{ color: '#fff', fontFamily: 'sans-serif ' }}>I am a still working on this 
+                    <h3 style={{ color: '#fff', fontFamily: 'sans-serif ' }}>I am a still working on this
                     </h3>
                     <hr />
                     {/* <ul className="social">
@@ -30,6 +30,11 @@ function Header() {
                             )
                         }
                     </ul> */}
+                    <a
+                        className="fa fa-github" href="https://github.com/Aveheart" target="_blank" rel="noopener noreferrer">
+                        Github
+                        {/* get symbol of github instead of word for link */}
+                    </a>
                 </div>
             </div>
 
