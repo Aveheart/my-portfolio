@@ -802,6 +802,7 @@ properly.
 	text-align: center !important;
 }
 
+/* Todo- CSS for project cards */
 .products {
    flex: 1;
    background-color: var(--white);
