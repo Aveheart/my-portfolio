@@ -15,25 +15,19 @@ function Header() {
             <div className="row banner">
                 <div className="banner-text">
                     <h1 className="responsive-headline">I am Averi Sherman.</h1>
-                    <h3 style={{ color: '#fff', fontFamily: 'sans-serif ' }}>I am a still working on this
+                    <h3 style={{ color: '#fff', fontFamily: 'sans-serif ' }}>Junior Fullstack Web Developer.
                     </h3>
                     <hr />
-                    {/* <ul className="social">
-                        {
-                            resumeData.socialLinks && resumeData.socialLinks.map(item => {
-                                return (
-                                    <li key={item.name}>
-                                        <a href={item.url} target="_blank"><i className={item.className}></i></a>
-                                    </li>
-                                )
-                            }
-                            )
-                        }
-                    </ul> */}
                     <a
                         className="fa fa-github" href="https://github.com/Aveheart" target="_blank" rel="noopener noreferrer">
-                        Github
+                        Github |  
                         {/* get symbol of github instead of word for link */}
+                    </a>
+
+                    <a
+                        className="fa fa-github" href="https://www.linkedin.com/in/averi-sherman-b2a39b256/" target="_blank" rel="noopener noreferrer">
+                              LinkdIn
+                        {/* get symbol of linkdIn instead of word for link */}
                     </a>
                 </div>
             </div>
@@ -45,3 +39,10 @@ function Header() {
     )
 }
 export default Header;
+
+
+// HomePage
+// Home About Projects Contact- nave bar links to each section
+// Header with my name and quick statement/ description
+// link to Github and LinkdIn 
+// done-simple
