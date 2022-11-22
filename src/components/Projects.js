@@ -6,7 +6,7 @@ function Projects() {
                 <div className="twelve columns collapsed">
                     <h1> My Projects</h1>
                     <div id="project-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
-                        <div class="products">
+                        {/* <div class="products">
                             <section class="card">
                                 <header>titleproj 1</header>
                                 <img src="./assets/images/camera.jpg" alt="project 1" />
@@ -37,7 +37,7 @@ function Projects() {
                                 <img src="./assets/images/wooden-spoons.jpg" alt="proj 6" />
                                 <p>Project 6 details</p>
                             </section>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </div>
