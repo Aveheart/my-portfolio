@@ -17,7 +17,7 @@ function Contact() {
                             <p className="address">
                                 <span>Averi Sherman</span>
                                 <br></br>
-                                <span>gmail</span>
+                                <span>averi.sherman@gmail.com</span>
                             </p>
                         </div>
                     </div>

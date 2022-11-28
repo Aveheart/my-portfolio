@@ -33,6 +33,7 @@
 //   Projects Page
 // display of projects in block row. try to fit 6 good projects
 // pic of each project with short description/ languages used
+// module 2 26 for example
 // ?link to deployed link or github
 
 // Contact Page

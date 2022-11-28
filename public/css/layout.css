@@ -52,7 +52,7 @@ header .banner {
    vertical-align: middle;
    margin: 0 auto;
    width: 85%;
-   padding-bottom: 30px;s
+   padding-bottom: 30px;
    text-align: center;
 }
 
@@ -235,7 +235,7 @@ ul#nav li.current a { color: #F06000; }
 /* d. Resume Section
 /* ------------------------------------------------------------------ */
 
-#resume {
+/* #resume {
    background: #fff;
    padding-top: 90px;
    padding-bottom: 72px;
@@ -279,7 +279,7 @@ ul#nav li.current a { color: #F06000; }
 #resume .date {
    font: 15px/24px 'opensans-regular', sans-serif;
    margin-top: 6px;
-}
+} */
 
 /*----------------------------------------------*/
 /*	Skill Bars
@@ -637,7 +637,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------
 /* g. Testimonials
 /* ------------------------------------------------------------------ */
-
+/* 
 #testimonials {
    background: #1F1F1F url(../images/testimonials-bg.jpg) no-repeat center center;
    background-size: cover !important;
@@ -670,16 +670,16 @@ call-to-action .button {
    text-align: left;
    float: left;
    color: #fff;
-}
+} */
 
 /*	Blockquotes */
-#testimonials blockquote {
+/* #testimonials blockquote {
    margin: 0 0px 30px 0px;
    padding-left: 0;
    position: relative;
    text-shadow: 0px 1px 3px rgba(0, 0, 0, 1);
-}
-#testimonials blockquote:before { content: none; }
+} */
+/* #testimonials blockquote:before { content: none; }
 #testimonials blockquote p {
    font-family: 'librebaskerville-italic', serif;
    padding: 0;
@@ -696,7 +696,7 @@ call-to-action .button {
 }
 #testimonials blockquote cite:before { content: "\2014 \0020"; }
 #testimonials blockquote cite a,
-#testimonials blockquote cite a:visited { color: #8B9798; border: none }
+#testimonials blockquote cite a:visited { color: #8B9798; border: none } */
 
 /* Flex Slider
 /* ------------------------------------------------------------------ */
@@ -787,7 +787,7 @@ call-to-action .button {
 /* h. Contact Section
 /* ------------------------------------------------------------------ */
 
-#contact {
+/* #contact {
    background: #191919;
    padding-top: 96px;
    padding-bottom: 102px;
@@ -830,7 +830,7 @@ call-to-action .button {
 
 
 /* contact form */
-#contact form { margin-bottom: 30px; }
+/* #contact form { margin-bottom: 30px; }
 #contact label {
    font: 15px/24px 'opensans-bold', sans-serif;
    margin: 12px 0;
@@ -851,8 +851,8 @@ call-to-action .button {
    font-size: 15px;
    line-height: 24px;
    width: 65%;
-}
-#contact input:focus,
+} */
+/* #contact input:focus,
 #contact textarea:focus,
 #contact select:focus {
 	color: #fff;
@@ -898,11 +898,11 @@ call-to-action .button {
    position: relative;
    left: 18px;
    top: 17px;
-}
+} */ */
 
 
 /* Twitter Feed */
-#twitter {
+/* #twitter {
    margin-top: 12px;
    padding: 0;
 }
@@ -917,14 +917,14 @@ call-to-action .button {
    font: 13px/36px 'opensans-regular', Sans-serif;
    color: #474747 !important;
    border: none;
-}
+} */
 
 
 /* ------------------------------------------------------------------ */
 /* i. Footer
 /* ------------------------------------------------------------------ */
 
-footer {
+/* footer {
    padding-top: 48px;
    margin-bottom: 48px;
    color: #303030;
@@ -1002,5 +1002,5 @@ footer .social-links li:first-child { margin-left: 0; }
    line-height: 60px;
  	border-radius: 100%;
 }
-#go-top a:hover { background-color: #0F9095; }
+#go-top a:hover { background-color: #0F9095; } */
 

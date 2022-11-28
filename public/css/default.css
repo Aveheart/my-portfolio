@@ -803,12 +803,11 @@ properly.
 }
 
 /* Todo- CSS for project cards */
-.products {
+/* .products {
    flex: 1;
    background-color: var(--white);
-   padding: 50px;
-   display: flex;
-   flex-wrap: wrap;
+    display: flex;
+   flex-wrap: wrap; 
    justify-content: space-evenly;
  }
  
@@ -817,23 +816,24 @@ properly.
    border-width: 1px;
    border-radius: var(--border-radius);
    padding: 10px;
-   flex: 0 0 300px;
-   transform: rotate(8deg);
-   box-shadow: 10px 10px 5px #aaaaaa;
+    flex: 0 0 300px; 
+   /* transform: rotate(8deg); */
+   /* box-shadow: 10px 10px 5px #aaaaaa;
    margin: 20px;
+   height: 400px;
  }
 
  .card > header {
    /* This is the same as `border-radius: 50px 50px 0 0 */
-   border-radius: var(--border-radius) var(--border-radius) 0 0;
+   /* border-radius: var(--border-radius) var(--border-radius) 0 0;
    padding: 20px;
  }
  
- .card > p {
+.card > p {
    text-align: center;
  }
  
  .card > img {
    width: 100%;
- }
+ }  */ */ */
 
