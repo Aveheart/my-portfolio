@@ -29,10 +29,10 @@
 
 
 //   HomePage
-// Home About Projects Contact- nave bar links to each section
+// images for github and linkdin
 // Header with my name and quick statement/ description
-// link to Github and LinkdIn 
-// done-simple
+
+
 
 //   About Page
 // Picture of me
@@ -46,11 +46,37 @@
 // module 2 26 for example
 // ?link to deployed link or github
 
-// Contact Page
-// Contact Me
-// email with link to send message
-// linkdIn
-// Github again
 
-// Footer
-// Thanks for visiting
+// todo: Images
+// images for projects
+// profile pic
+// background images
+// images for github and linkdIn
+
+// todo: Header
+// add background image
+// change links to github and linkd in to symbols
+// better styling/font/design
+
+// todo: Projects
+// add pics for each project
+// name and description
+// link to deployed site/github
+// background image
+// header style
+
+// Todo: About Me
+// add profile pic
+// paragraph about me
+// list languages/programs i know
+// background image/styling
+
+// Todo: Contact Me
+// background image?
+
+// Todo: Footer
+// maybe add image copyright or something tiny and cute
+
+// Todo: Extra
+// link to resume?
+// contact form?

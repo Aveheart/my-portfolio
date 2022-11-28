@@ -7,10 +7,7 @@ function Footer() {
         <ul className="social-links">
         
                 <li>
-                SHould I put something here in the footer
-                  {/* <a href={item.url}> */}
-                  {/* <i className={item.className} />
-                  </a> */}
+                Thanks for Visiting :)                 
                 </li>
               
         </ul>
