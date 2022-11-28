@@ -17,6 +17,16 @@
   //   </div>
   // );
 
+  // todo: Card CSS from mini project module3? i believe. for projects
+    {/* <div class="products"> */}
+                            {/* <section class="card">
+                                <header>titleproj 1</header>
+                                <img src="./components/myface.PNG" alt="project 1" />
+                                <p>project 1 details</p>
+                            </section>  */}
+
+                            {/* </div> */}
+
 
 //   HomePage
 // Home About Projects Contact- nave bar links to each section
