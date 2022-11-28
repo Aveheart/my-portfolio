@@ -5,33 +5,34 @@ function Contact() {
         <section id="contact">
             {/* <div className="row section-head">
                 <div className="ten columns">
-                    <p className="lead">
+                    <h2 className="lead">
                         Contact Me
-                    </p>
+                    </h2>
                 </div>
             </div> */}
             <div className="row">
-                        <div className="columns contact-details">
-
-                            <h2> Contact Details</h2>
-                            <p className="address">
-                                <span>Averi Sherman</span>
-                                <br></br>
-                                <span>averi.sherman@gmail.com</span>
-                            </p>
-                        </div>
+                <aside className="eigth columns footer-widgets">
+                    <div>
+                        <h2 className='lead'>Contact Me</h2>
                     </div>
-            <div className="row">
-                <aside className="eight columns footer-widgets">
+                    <div className='lead'>Averi Sherman</div>
+                    <div className='lead'>(614)949-2052</div>
+                    <div className='lead'>
+                        Email: averi.sherman@gmail.com
+                    </div>
                     <div className="widget">
-                        <h4> LinkdIn
-                        </h4>
+
+                        <a className="App-link" href="https://github.com/Aveheart" target="_blank" rel="noopener noreferrer">Github</a>
+                    </div>
+                    <div className="widget">
+
+                        <a className="App-link" href="https://www.linkedin.com/in/averi-sherman-b2a39b256/" target="_blank" rel="noopener noreferrer">LinkdIn</a>
                     </div>
                 </aside>
-                
             </div>
         </section>
-    )
+    );
+
 }
 export default Contact;
 //  <div> <a className="App-link" href="https://github.com/Aveheart" target="_blank"rel="noopener noreferrer">Github</a> </div>
