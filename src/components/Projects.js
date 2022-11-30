@@ -1,5 +1,6 @@
 import React from 'react';
 import logo from './myface.PNG';
+import project1 from './takeahike.jpg';
 function Projects() {
     return (
         <section id="portfolio">
@@ -9,15 +10,14 @@ function Projects() {
                     <div id="project-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
                         <div className="columns portfolio-item">
                             <div className="item-wrap">
-                                {/* <a href="#modal-01"> */}
-                                <img src={`${logo}`} className="item-img" alt='imageplaceholder' />
+                                <a href="https://safe-anchorage-34793.herokuapp.com/">
+                                <img src={`${project1}`} className="item-img" alt='imageplaceholder' />
                                 <div className="overlay">
                                     <div className="portfolio-item-meta">
-                                        <h5>project 1</h5>
-                                        <p>project 1 description</p>
+                                        <h5>Take A Hike</h5>
                                     </div>
                                 </div>
-                                {/* </a> */}
+                                </a>
                             </div>
 
                         </div>
