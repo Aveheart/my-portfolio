@@ -39,10 +39,3 @@ function Header() {
     )
 }
 export default Header;
-
-
-// HomePage
-// Home About Projects Contact- nave bar links to each section
-// Header with my name and quick statement/ description
-// link to Github and LinkdIn 
-// done-simple
