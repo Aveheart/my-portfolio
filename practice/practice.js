@@ -48,7 +48,7 @@
 
 
 // todo: Images
-// images for projects
+
 // profile pic
 // background images
 // images for github and linkdIn
@@ -59,7 +59,6 @@
 // better styling/font/design
 
 // todo: Projects
-// add pics for each project
 // name and description
 // link to deployed site/github
 // background image
@@ -68,7 +67,6 @@
 // Todo: About Me
 // add profile pic
 // paragraph about me
-// list languages/programs i know
 // background image/styling
 
 // Todo: Contact Me
