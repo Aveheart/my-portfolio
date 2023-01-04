@@ -17,7 +17,7 @@ function About() {
                     <div className="nine columns main-col">
                         <h2>Technical Skills</h2>
                         <ul>
-                            <li>list of languages Here</li>
+                            <li>HTML, CSS, Javascript, jQuery, Moment, Bootstrap, Github, GitBash, NodeJS, OOP, Express, SQL, ORM, MVC, NoSql, React, MERN</li>
                         </ul>
                     </div>
                     {/* <div className="row">
