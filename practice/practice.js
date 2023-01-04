@@ -59,15 +59,17 @@
 // better styling/font/design
 
 // todo: Projects
-// name and description
+// description
 // link to deployed site/github
 // background image
 // header style
 
 // Todo: About Me
 // add profile pic
-// paragraph about me
 // background image/styling
+// make project images bigger
+// add more projects
+// Heroku sucks and links wont open now
 
 // Todo: Contact Me
 // background image?

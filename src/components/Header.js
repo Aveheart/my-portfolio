@@ -14,7 +14,7 @@ function Header() {
             </nav>
             <div className="row banner">
                 <div className="banner-text">
-                    <h1 className="responsive-headline"> Averi Sherman.</h1>
+                    <h1 className="responsive-headline"> Averi Sherman</h1>
                     <h3 style={{ color: '#fff', fontFamily: 'sans-serif ' }}>Junior Fullstack Web Developer.
                     </h3>
                     <hr />
