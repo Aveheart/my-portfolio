@@ -26,7 +26,7 @@ function Contact() {
                     </div>
                     <div className="widget">
 
-                        <a className="App-link" href="https://www.linkedin.com/in/averi-sherman-b2a39b256/" target="_blank" rel="noopener noreferrer">LinkdIn</a>
+                        <a className="App-link" href="https://www.linkedin.com/in/averi-sherman-b2a39b256/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
                     </div>
                 </aside>
             </div>

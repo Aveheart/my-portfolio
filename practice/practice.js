@@ -27,51 +27,19 @@
 
                             {/* </div> */}
 
-
-//   HomePage
-// images for github and linkdin
-// Header with my name and quick statement/ description
-
-
-
-//   About Page
-// Picture of me
-// paragragh about me
-// skills-
-// languages/ programs
-
-//   Projects Page
-// display of projects in block row. try to fit 6 good projects
-// pic of each project with short description/ languages used
-// module 2 26 for example
-// ?link to deployed link or github
-
-
 // todo: Images
-
-// profile pic
 // background images
 // images for github and linkdIn
 
 // todo: Header
-// add background image
 // change links to github and linkd in to symbols
 // better styling/font/design
 
 // todo: Projects
 // description
-// link to deployed site/github
 // background image
 // header style
 
-// Todo: About Me
-// add profile pic
-
-// Todo: Contact Me
 
 // Todo: Footer
 // maybe add image copyright or something tiny and cute
-
-// Todo: Extra
-// link to resume?
-// contact form?

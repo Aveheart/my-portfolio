@@ -15,7 +15,7 @@ function Header() {
             <div className="row banner">
                 <div className="banner-text">
                     <h1 className="responsive-headline"> Averi Sherman</h1>
-                    <h3 style={{ color: '#fff', fontFamily: 'sans-serif ' }}>Junior Fullstack Web Developer.
+                    <h3 style={{ color: 'black', fontFamily: 'sans-serif ' }}>Junior Fullstack Web Developer.
                     </h3>
                     <hr />
                     <a
@@ -26,7 +26,7 @@ function Header() {
 
                     <a
                         className="fa fa-github" href="https://www.linkedin.com/in/averi-sherman-b2a39b256/" target="_blank" rel="noopener noreferrer">
-                              LinkdIn
+                              LinkedIn
                         {/* get symbol of linkdIn instead of word for link */}
                     </a>
                 </div>
