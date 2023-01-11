@@ -66,13 +66,8 @@
 
 // Todo: About Me
 // add profile pic
-// background image/styling
-// make project images bigger
-// add more projects
-// Heroku sucks and links wont open now
 
 // Todo: Contact Me
-// background image?
 
 // Todo: Footer
 // maybe add image copyright or something tiny and cute

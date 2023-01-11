@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './myface.PNG';
+import logo from './portfolio.PNG';
 function About() {
     return (
         <section id="about">
