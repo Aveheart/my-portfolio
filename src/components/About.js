@@ -20,17 +20,6 @@ function About() {
                             <li>HTML, CSS, Javascript, jQuery, Moment, Bootstrap, Github, GitBash, NodeJS, OOP, Express, SQL, ORM, MVC, NoSql, React, MERN</li>
                         </ul>
                     </div>
-                    {/* <div className="row">
-                        <div className="columns contact-details">
-
-                            <h2> Contact Details</h2>
-                            <p className="address">
-                                <span>Averi Sherman</span>
-                                <br></br>
-                                <span>gmail</span>
-                            </p>
-                        </div>
-                    </div> */}
                 </div>
             </div>
         </section>
