@@ -15,7 +15,7 @@ function Projects() {
                         <div className="columns portfolio-item">
                             <div className="projectTitle">Take A Hike</div>
                             <div className="item-wrap">
-                                <a href="https://safe-anchorage-34793.herokuapp.com/">
+                                <a href="https://github.com/mals1230/dog-walk.git">
                                 <img src={`${project1}`} className="item-img" alt='take a hike webpage' />
                                 <div className="overlay">
                                     <div className="portfolio-item-meta">
@@ -30,7 +30,7 @@ function Projects() {
                         <div className="columns portfolio-item">
                         <div className="projectTitle">Pill Git It</div>
                             <div className="item-wrap">
-                                <a href="https://pill-git-it.herokuapp.com/">
+                                <a href="https://github.com/AASports89/pill-git-it.git">
                                 <img src={`${project2}`} className="item-img" alt='pill git it webpage' />
                                 <div className="overlay">
                                     <div className="portfolio-item-meta">
@@ -45,7 +45,7 @@ function Projects() {
                         <div className="columns portfolio-item">
                         <div className="projectTitle">National Park Finder</div>
                             <div className="item-wrap">
-                                 <a href="https://proper-stevo.github.io/ThePonderosaPines/">
+                                 <a href="https://github.com/Proper-Stevo/ThePonderosaPines.git">
                                 <img src={`${project3}`} className="item-img" alt='national park finder webpage' />
                                 <div className="overlay">
                                     <div className="portfolio-item-meta">
