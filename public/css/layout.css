@@ -411,7 +411,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background: #ebeeee;
+   background: "./background1.jpg";
    padding-top: 90px;
    padding-bottom: 60px;
 }
